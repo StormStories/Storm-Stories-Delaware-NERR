@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Matthew,del,delsjmet,Saint Jones River (SJ),atemp,42.62,72.5,60.0894240837696,62.42,NA
+Matthew,del,delsjmet,Saint Jones River (SJ),bp,29.884242853768,30.4748405386251,30.1964969002383,30.2386014646823,NA
+Matthew,del,delsjmet,Saint Jones River (SJ),intensprcp,0,0.393700787401575,0.0169298209451567,0,NA
+Matthew,del,delsjmet,Saint Jones River (SJ),maxwspd,0,28.6328557048231,9.13125129439098,7.82929648178757,NA
+Matthew,del,delsjmet,Saint Jones River (SJ),rh,33,100,81.9005235602094,90,NA
+Matthew,del,delsjmet,Saint Jones River (SJ),totprcp,0,0.0984251968503937,0.00423245523628918,0,2.4251968503937
+Matthew,del,delsjmet,Saint Jones River (SJ),wspd,0,13.8690394820237,4.13502410047838,3.57910696310289,NA
